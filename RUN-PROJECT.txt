@@ -1,0 +1,11 @@
+1]FAKE DATABASE 
+npm install json-server
+
+2]RUN JSON SERVER
+npm run json-server
+
+3]CONCURRENTLY
+npm install concurrently
+
+TO RUN PROJECT Enter following command
+npm run start:dev
